@@ -1,13 +1,13 @@
 # Image_Processing
 
-    ==>renaming: Rename all images sequential.
+    1) renaming: Rename all images sequential.
     
-    ==>process_images: Standarized images to smae level (jpg,(1024,1024)).
+    2) process_images: Standarized images to smae level (jpg,(1024,1024)).
     
-    ==>remove_duplicate: Removing duplicate images from same folder.
+    3) remove_duplicate: Removing duplicate images from same folder.
     
-    ==>crop_borders: remove borders of image.
+    4) crop_borders: remove borders of image.
     
-    ==>thumbnails: create thumbnails of image.
+    5) thumbnails: create thumbnails of image.
     
    
